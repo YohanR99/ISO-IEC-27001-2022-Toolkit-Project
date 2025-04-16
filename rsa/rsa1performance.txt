@@ -1,0 +1,4 @@
+Encryption Time: 0.00035 seconds
+Encryption CPU Usage: 5.30%
+Decryption Time: 0.00030 seconds
+Decryption CPU Usage: 0.00%
