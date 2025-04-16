@@ -1,4 +1,0 @@
-Signing Time: 0.00024 seconds
-Signing CPU Usage: 3.10%
-Verification Time: 0.00027 seconds
-Verification CPU Usage: 15.00%
